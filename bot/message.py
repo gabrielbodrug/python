@@ -2,7 +2,7 @@
     'content_type': 'text',
     'id': 6,
     'message_id': 6,
-    'from_user': {
+    'c': {
         'id': 365913711,
         'is_bot': False,
         'first_name': 'e',
